@@ -5,6 +5,6 @@ There is a project pdf file which explains u all about my project.
 
 1.main branch contains only readme section.
 
-2. sub-branch name model-1 contains realtime object detection project.
+2.sub-branch name model-1 contains realtime object detection project.
 
-3. sub-branch name model-2 contains handwritten equation solver.
+3.sub-branch name model-2 contains handwritten equation solver.
